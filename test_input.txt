@@ -1,0 +1,8 @@
+<file path="test_output.txt">
+Hello from the Antigravity Protocol!
+This file was written automatically.
+</file>
+
+<cmd>
+echo "Hello World from Antigravity!"
+</cmd>
